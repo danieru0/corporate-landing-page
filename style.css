@@ -430,6 +430,7 @@ header {
     .desc-text h2,
     .desc-text p:nth-child(3) {
         width: 100%;
+        text-align: center;
     }
     
     .description img {
