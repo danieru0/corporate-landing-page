@@ -114,7 +114,7 @@ header {
     float: left;
 }
 
-.new-design h1 {
+.new-design h2 {
     text-align: left;
     width: 570px;
     font-family: 'Exo', sans-serif;
@@ -126,7 +126,7 @@ header {
     margin-bottom: -35px;
 }
 
-.new-design h2 {
+.new-design h3 {
     color: #282828;
     font-family: 'Exo', sans-serif;
     font-weight: 500;
@@ -217,7 +217,7 @@ header {
     top: -140px;
 }
 
-.features-text h1 {
+.features-text h2 {
     font-family: 'Exo', sans-serif;
     font-weight: 500;
     color: #ff6d6d;
@@ -226,7 +226,7 @@ header {
     font-size: 16px;   
 }
 
-.features-text h2 {
+.features-text h3 {
     color: #282828;
     font-family: 'Exo', sans-serif;
     font-weight: 500;
@@ -251,7 +251,7 @@ header {
     flex-direction: column;
 }
 
-.features-block h3 {
+.features-block h4 {
     color: #282828;
     font-family: 'Exo', sans-serif;
     font-weight: 500;
@@ -369,7 +369,7 @@ header {
     position: absolute;
 }
 
-.desc-text h1 {
+.desc-text h2 {
     font-family: 'Exo', sans-serif;
     font-weight: 500;
     color: #ff6d6d;
@@ -380,7 +380,7 @@ header {
     width: 450px;
 }
 
-.desc-text h2 {
+.desc-text h3 {
     color: #282828;
     font-family: 'Exo', sans-serif;
     font-weight: 500;
@@ -469,7 +469,7 @@ header {
     background: #4e4e5e;
 }
 
-.clients-block h1 {
+.clients-block h2 {
     font-family: 'Exo', sans-serif;
     color: #ffffff;
     font-weight: 400;
@@ -477,7 +477,7 @@ header {
     letter-spacing: 1px;
 }
 
-.clients-block h2 {
+.clients-block h3 {
     color: #a75052;
     letter-spacing: 1px;
     font-family: 'Exo', sans-serif;
@@ -486,7 +486,7 @@ header {
     margin-top: -15px;
 }
 
-.clients-block p {
+.clients-block blockquote {
     color: #b3b3b5;
     font-size: 16px;
     font-family: 'Exo', sans-serif;
@@ -545,7 +545,7 @@ header {
     max-width: 100%;
 }
 
-.browser-text h1 {
+.browser-text h2 {
     font-family: 'Exo', sans-serif;
     font-weight: 500;
     color: #ff6d6d;
@@ -554,7 +554,7 @@ header {
     font-size: 16px;
 }
 
-.browser-text h2 {
+.browser-text h3 {
     color: #282828;
     font-family: 'Exo', sans-serif;
     font-weight: 500;
@@ -619,7 +619,7 @@ header {
     top: 75px;
 }
 
-.try-now-text h1 {
+.try-now-text h2 {
     font-family: 'Exo', sans-serif;
     font-weight: 500;
     color: #ff6d6d;
@@ -628,7 +628,7 @@ header {
     font-size: 16px;
 }
 
-.try-now-text h2 {
+.try-now-text h3 {
     font-family: 'Exo', sans-serif;
     font-weight: 500;
     color: #ffffff;
@@ -811,7 +811,7 @@ clip-path: polygon(100% 0, 38% 0, 100% 74%);
     z-index: -1;
 }
 
-.logo h1 {
+.logo h2 {
     font-size: 26px;
     font-family: 'Lato', sans-serif;
     color: #2c2f49;
