@@ -126,7 +126,7 @@ header {
     margin-bottom: -35px;
 }
 
-.new-design h3 {
+.new-design p:nth-child(2) {
     color: #282828;
     font-family: 'Exo', sans-serif;
     font-weight: 500;
@@ -139,7 +139,7 @@ header {
     color: #ff6d6d;
 }
 
-.new-design p {
+.new-design p:nth-child(3) {
     color: #8e8e8e;
     font-family: 'Exo', sans-serif;
     font-weight: 500;
@@ -380,7 +380,7 @@ header {
     width: 450px;
 }
 
-.desc-text h3 {
+.desc-text p:nth-child(2) {
     color: #282828;
     font-family: 'Exo', sans-serif;
     font-weight: 500;
@@ -389,7 +389,7 @@ header {
     width: 450px;
 }
 
-.desc-text p {
+.desc-text p:nth-child(3) {
     width: 450px;
     color: #6e6e6d;
     font-family: 'Exo', sans-serif;
@@ -469,7 +469,7 @@ header {
     background: #4e4e5e;
 }
 
-.clients-block h2 {
+.clients-block h3 {
     font-family: 'Exo', sans-serif;
     color: #ffffff;
     font-weight: 400;
@@ -477,7 +477,7 @@ header {
     letter-spacing: 1px;
 }
 
-.clients-block h3 {
+.clients-block p {
     color: #a75052;
     letter-spacing: 1px;
     font-family: 'Exo', sans-serif;
