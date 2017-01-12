@@ -93,7 +93,7 @@ header {
 }
 
 .new-design {
-    width: 50%;
+    width: 60%;
     height: 750px;
     display: flex;
     justify-content: center;
@@ -136,7 +136,7 @@ header {
 }
 
 .rectangle1 {
-    width: 50%;
+    width: 40%;
     height: 750px;
     background-color: #ececec;
     float: left;
@@ -147,8 +147,8 @@ header {
 
 .rectangle2 {
     position: absolute;
-    left: 50%;
-    width: 50%;
+    left: 60%;
+    width: 40%;
     float: right;
     height: 750px;
     background-color: #fb8686;
