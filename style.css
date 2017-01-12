@@ -554,7 +554,7 @@ header {
     font-size: 16px;
 }
 
-.browser-text h3 {
+.browser-text p:nth-child(2) {
     color: #282828;
     font-family: 'Exo', sans-serif;
     font-weight: 500;
@@ -563,7 +563,7 @@ header {
     margin-top: -15px
 }
 
-.browser-text p {
+.browser-text p:nth-child(3) {
     color: #6e6e6d;
     font-family: 'Exo', sans-serif;
     font-weight: 500;
@@ -628,7 +628,7 @@ header {
     font-size: 16px;
 }
 
-.try-now-text h3 {
+.try-now-text p.subheading {
     font-family: 'Exo', sans-serif;
     font-weight: 500;
     color: #ffffff;
