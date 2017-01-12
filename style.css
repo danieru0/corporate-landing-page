@@ -183,10 +183,11 @@ header {
 }
 
 @media only screen and (max-width: 624px) {
-    .new-design h1,
+    .new-design p:nth-child(3),
     .new-design h2,
-    .new-design p {
+    .new-design p:nth-child(2) {
         width: 100%;
+        text-align: center;
     }
 }
 
@@ -425,9 +426,9 @@ header {
         width: 80%;
     }
     
-    .desc-text p,
+    .desc-text p:nth-child(2),
     .desc-text h2,
-    .desc-text h1 {
+    .desc-text p:nth-child(3) {
         width: 100%;
     }
     
@@ -519,8 +520,8 @@ header {
     opacity: 1;
 }
 
-@media only screen and (max-width: 345px) {
-    .clients-block p,
+@media only screen and (max-width: 421px) {
+    .clients-block blockquote,
     .clients-block h2,
     .clients-block h1 {
         width: 100%;
@@ -590,9 +591,9 @@ header {
         width: 100%;
     }
     
-    .browser-text h1,
     .browser-text h2,
-    .browser-text p {
+    .browser-text p,
+    .browser-text p:nth-child(3) {
         width: 100%;
         text-align: center;
     }
