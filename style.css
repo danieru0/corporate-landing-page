@@ -637,6 +637,7 @@ header {
     letter-spacing: 3px;
     font-size: 40px;
     margin-top: -5px;
+    text-align: center;
 }
 
 .input-try-now {
